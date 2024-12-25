@@ -1,0 +1,5 @@
+User's Cards: ['7', 'A']
+Computer's Cards: ['10', 'K']
+Final Hands:
+User's Hand: ['7', 'A']
+Computer's Hand: ['10', 'K']
